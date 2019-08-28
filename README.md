@@ -11,4 +11,5 @@ git commit -m
 连接远程仓库：
 git remote add origin 仓库地址
 git push origin master
+git push origin HEAD
 git clone
